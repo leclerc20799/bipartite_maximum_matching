@@ -1,6 +1,6 @@
 [project]
 name = "bipartite-maximum-matching"
-version = "0.1.1"
+version = "0.1.2"
 description = "Finds a maximum-cardinality matching in a bipartite graph using augmenting paths via depth-first search."
 requires-python = ">=3.10"
 dependencies = []
